@@ -22,9 +22,9 @@ sh build.sh
 
 ````shell
 #查看用法：
-docker --rm litmus 
+docker run --rm litmus 
 #运行
-docker --rm litmus make +附加的参数
+docker run --rm litmus make +附加的参数
 ````
 
 
